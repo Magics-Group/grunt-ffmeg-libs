@@ -25,7 +25,6 @@
         "decompress-zip": "^0.2.0",
         "find-project-root": "^1.1.1",
         "graceful-ncp": "^2.0.0",
-        "gunzip-maybe": "^1.2.1",
         "lodash": "^3.10.1",
         "mkdirp": "^0.5.1",
         "needle": "^0.10.0",
