@@ -67,7 +67,7 @@ function getFFMPEG(platform, arch, dir, callback) {
 
 module.exports = function(grunt) {
 
-    grunt.registerTask('vlc_libs', 'Download FFMPEG libs', downloadTask);
+    grunt.registerTask('ffmpeg_libs', 'Download FFMPEG libs', downloadTask);
 
     function downloadTask() {
         var done = this.async();
